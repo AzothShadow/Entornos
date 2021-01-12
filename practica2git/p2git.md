@@ -26,3 +26,9 @@ Modificamos el fichero contenido.txt y volvemos a comprobar el estado del reposi
 <img src = "images/7.png">
 
 Añadimos los cambios a preparado y volvemos a hacer un commit.
+
+<img src = "images/8.png">
+
+Ya, para terminar, modificamos el comentario del ultimo commit.
+
+<img src = "images/9.png">
