@@ -11,3 +11,18 @@ Creamos un fichero .txt llamado contenido y lo introducimos en una nueva carpeta
 Tras esto comprobamos el estado del repositorio.
 
 <img src = "images/3.png">
+
+Ahora añadimos los ficheros a la zona de preparado y comprobamos de nuevo el estado.
+
+<img src = "images/4.png">
+
+Tras esto realizamos un commit.
+
+<img src = "images/5.png">
+
+Modificamos el fichero contenido.txt y volvemos a comprobar el estado del repositorio.
+
+<img src = "images/6.png">
+<img src = "images/7.png">
+
+Añadimos los cambios a preparado y volvemos a hacer un commit.
