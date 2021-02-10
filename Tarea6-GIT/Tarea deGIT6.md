@@ -11,3 +11,9 @@
 #### 3. Creamos el fichero Principal.java
 
 <img src = "Images/3.png">
+
+#### 4. Pasamos todo a prepatado de nuevo
+
+<img src = "Images/4.png">
+
+
